@@ -110,3 +110,4 @@ models/
 Pipfile
 Pipfile.lock
 notebooks/
+akea_data/
